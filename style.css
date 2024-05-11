@@ -405,6 +405,9 @@ nav .fas{
             font-size:40px;
 
         }
+        #skills{
+            width: 100vw;
+        }
         .about-col-1, .about-col-2{
             flex-basis:100%;/*- the img will be adjusted to the phone display size-*/
             margin-bottom:30px;
